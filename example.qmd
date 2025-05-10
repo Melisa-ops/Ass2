@@ -6,6 +6,7 @@ editor: visual
 
 1.Create a new RStudio Project. In this folder, create a simple qmd file called example.qmd that can be knitted into a HTML file. Show the result of the knitted file.
 
-3.Create a branch named `dev-branch` for development work. Make sure to commit your changes regularly.
+2.From the command line interface, initialise this folder as a git repository and push it to a GitHub repository.
 
-2.Initialize the folder as a Git repository, connect it to GitHub using SSH, and push the project.
+3.Create a new branch called testbranch. Modify the file example.qmd and add the changes to both the local and remote repositories.
+
